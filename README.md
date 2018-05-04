@@ -16,6 +16,8 @@ How does engagement with Y2Y case management (working with case managers, partic
 ### Warning analysis: 
 Whenever a guest breaks a certain rule of the shelter, they receive a warning. We are trying to analyze whether the number of warnings given to a guest is related with the success rate i.e. Is the warning rate proportional to the success rate?
 
+### Note: We can't put Y2Y Shelter's inside documentation here.
+
 ## Jupyter notebook description:
 
 ### WeatherData.ipynb: 
