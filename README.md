@@ -18,7 +18,11 @@ Whenever a guest breaks a certain rule of the shelter, they receive a warning. W
 
 ## Jupyter notebook description:
 
-### WeatherData.ipynb: Web scraped Wether Data.
-### Score_Calculation.ipynb: Calculated Vulnerability Score of each person. 
-### Case_management.ipynb: Obtained outcome(Job and Housing) of each person.
-### Name in workshop.ipynb:Obtained name lists. Obtained Work Participation, Action Participation and warning of each person and established the entire model.
+### WeatherData.ipynb: 
+Web scraped Wether Data.
+### Score_Calculation.ipynb: 
+Calculated Vulnerability Score of each person. 
+### Case_management.ipynb: 
+Obtained outcome(Job and Housing) of each person.
+### Name in workshop.ipynb:
+Obtained name lists. Obtained Work Participation, Action Participation and warning of each person and established the entire model.
