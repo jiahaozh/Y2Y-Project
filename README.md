@@ -26,5 +26,7 @@ Web scraped Wether Data.
 Calculated Vulnerability Score of each person. 
 ### Case_management.ipynb: 
 Obtained outcome(Job and Housing) of each person.
+### Warning.ipynb:
+Obtained warnings of each person.
 ### Name in workshop.ipynb:
-Obtained name lists. Obtained Work Participation, Action Participation and warning of each person and established the entire model.
+Obtained name lists. Obtained Work Participation and Action Participation of each person and established the entire model.
